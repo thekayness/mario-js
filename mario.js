@@ -1,6 +1,10 @@
 
 printPyramid(5);
 
+//Whatup from localllllllllllllllll
+//this is so neat
+//super great version control wow
+//fork before you clone y'all
 
 /*
  * printPyramid
